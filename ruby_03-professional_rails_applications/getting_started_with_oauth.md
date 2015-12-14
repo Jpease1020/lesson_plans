@@ -260,6 +260,7 @@ user information we'd like to save to our new `User` model:
 
 * `name`
 * `screen_name`
+* `uid`
 * `user_id` (by convention, we often save this into a column called `uid`)
 * `oauth_token`
 * `oauth_token_secret`
